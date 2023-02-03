@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ADPDevWDB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78A9DD60919D470AA2635A5856055138 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB53C68256CB4C4DB48690ECC2D77101 }}
           package: .
